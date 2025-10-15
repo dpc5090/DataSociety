@@ -1,0 +1,6 @@
+matplotlib==3.10.7
+pandas==2.3.3
+scikit_learn==1.7.2
+tqdm==4.67.1
+transformers==4.56.2
+wordcloud==1.9.4
